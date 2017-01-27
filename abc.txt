@@ -1,2 +1,5 @@
 test learntek demo
 edit by xyz developer
+
+class day2 testing diff
+testing branch and pointers
